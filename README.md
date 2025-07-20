@@ -1,4 +1,4 @@
-#**Top 5 Cryptocurrency Portfolio Analysis(2014–2022)**#
+# Top 5 Cryptocurrency Portfolio Analysis(2014–2022)
 
 **Project Overview**
 This project explores the historical trends, volatility, trading volumes, and portfolio valuation of 5 major cryptocurrencies: BTC, ETH, MATIC, OCEAN, and SOL from 2014 to 2022. A Power BI dashboard was created to deliver interactive and data-driven insights for crypto investors and enthusiasts.
